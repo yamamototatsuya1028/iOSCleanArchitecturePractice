@@ -10,3 +10,6 @@ This is a sample twitter iOS application using the Uncle Bob's clean architectur
 # License
 
 iOS-CleanArchitecture is released under the MIT license. See LICENSE for details.
+
+
+# This sample is not yamamoto created.
